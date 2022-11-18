@@ -16,7 +16,8 @@ import com.google.android.gms.maps.model.MarkerOptions
 import com.google.android.gms.tasks.Task
 
 
-class MapFragment : Fragment() {
+class MapFragment : Fragment()    {
+
 
 
     private var fusedLocationClient: FusedLocationProviderClient? = null
